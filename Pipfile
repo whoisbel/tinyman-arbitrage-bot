@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tinyman-py-sdk = {git = "git+https://github.com/tinymanorg/tinyman-py-sdk.git"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

@@ -1,0 +1,18 @@
+[
+    {
+        "ticker": "$ALGO",
+        "asset_id": 0
+    },
+    {
+        "ticker": "$gALGO",
+        "asset_id": 793124631
+    },
+    {
+        "ticker": "$USDC",
+        "asset_id": 31566704
+    },
+    {
+        "ticker": "$AKTA",
+        "asset_id": 523683256
+    }
+]
